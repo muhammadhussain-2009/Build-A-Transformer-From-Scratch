@@ -31,12 +31,9 @@ Building A Decoder Only Transformer Like ChaGPT From Scratch
 - [Getting Started](#-getting-started)
     - [Prerequisites](#-prerequisites)
     - [Installation](#-installation)
-    - [Usage](#-usage)
-    - [Testing](#-testing)
 - [Features](#-features)
 - [Project Structure](#-project-structure)
     - [Project Index](#-project-index)
-- [Roadmap](#-roadmap)
 - [Contributing](#-contributing)
 - [License](#-license)
 
@@ -149,27 +146,6 @@ Build Build-A-Transformer-From-Scratch from the source and install dependencies:
 3. **Install the dependencies:**
 
 echo 'INSERT-INSTALL-COMMAND-HERE'
-
-### 💻 Usage
-
-Run the project with:
-
-echo 'INSERT-RUN-COMMAND-HERE'
-
-### 🧪 Testing
-
-Build-a-transformer-from-scratch uses the {__test_framework__} test framework. Run the test suite with:
-
-echo 'INSERT-TEST-COMMAND-HERE'
-
----
-
-## 📈 Roadmap
-
-- [X] **`Task 1`**: <strike>Implement feature one.</strike>
-- [ ] **`Task 2`**: Implement feature two.
-- [ ] **`Task 3`**: Implement feature three.
-
 ---
 
 ## 🤝 Contributing
